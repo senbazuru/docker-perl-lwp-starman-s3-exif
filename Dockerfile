@@ -1,4 +1,4 @@
-FROM senbazuru/perl
+FROM senbazuru/docker-perl
 MAINTAINER senbazuru
 # see also
 # https://github.com/DQNEO/docker-perllwp
