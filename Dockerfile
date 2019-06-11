@@ -21,3 +21,4 @@ RUN cpanm Amazon::S3::Thin
 RUN cpanm Class::Accessor::Fast # remove this in future
 #clean temp
 RUN  rm -rf /root/.cpanm/work/*
+
